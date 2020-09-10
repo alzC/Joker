@@ -145,7 +145,7 @@ header .toggle img{
 }
 @media (max-width:991px) {
   header{
-    padding: 20px 5px;
+    padding: 20px 50px;
   }
 
   header .logo{
@@ -155,22 +155,23 @@ header .toggle img{
     max-width: 80px;
   }
   .banner{
-    padding: 100px 50px;
+    padding: 150px 200px;
+
   }
   .banner .content h2{
     font-weight: 400;
-    font-size: 2em;
+    font-size: 4.5em;
     letter-spacing: 0.05em;
   }
   .banner .content p{
-    font-size: 1em;
+    font-size: 2.5em;
   }
   .slide{
     position: relative;
     bottom: initial;
     left: 0;
-    width: 250px;
-    height: 150px;
+    width: 550px;
+    height: 350px;
     margin:20px 0px;
   }
   .sci{
